@@ -67,3 +67,15 @@ switch (kun) {
   default:
     console.log("Bunday kun yo‘q");
 }
+
+// amaliy ish
+let a = prompt("Son kiriting");
+let b = prompt("Son kiriting");
+
+if (a > b) {
+  alert(`${a} ${b} dan katta`);
+} else if (a < b) {
+  alert(`${b} ${a} dan katta`);
+} else {
+  alert("Iltimos son kiriting");
+}
