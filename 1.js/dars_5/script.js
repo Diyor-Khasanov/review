@@ -50,7 +50,7 @@ let result = res.map((item) => {
 console.log(result);
 
 // filter(). bergan shartingizga ko'ra elementlarni filterlaydi
-let big = res.filter(() => {
+let big = res.filter((item) => {
   return item > 2;
 });
 console.log(big);

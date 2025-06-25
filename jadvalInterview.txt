@@ -1,0 +1,42 @@
+| Kun       | Nimalar O‘rganiladi                         | Mashqlar                       | Vaqt ajratish |
+| --------- | ------------------------------------------- | ------------------------------ | ------------- |
+| **1-kun** | JS Fundamentals: let, const, var, hoisting  | 5 ta misol yozish              | 1.5 soat      |
+| **2-kun** | Closure, this, Scope                        | 5 ta misol yozish              | 1.5 soat      |
+| **3-kun** | Array Methods: map, filter, reduce          | 5 ta amaliy masala             | 2 soat        |
+| **4-kun** | Event Loop, Call Stack, Debounce, Throttle  | 3 ta nazariy savol, 3 ta misol | 2 soat        |
+| **5-kun** | DOM, LocalStorage, SessionStorage           | Mini CRUD loyiha               | 2 soat        |
+| **6-kun** | React Basics: component, props, state       | Mini React form loyihasi       | 2 soat        |
+| **7-kun** | Review + 1 Mock Interview (JS + React Easy) | Qayta ko‘rish + test           | 2 soat        |
+| ---------- | ------------------------------------------------------- | ------------------------ | ------------- |
+| **8-kun**  | React Hooks: useEffect, useState, useMemo               | 3 ta mini component      | 2 soat        |
+| **9-kun**  | Redux, Context API                                      | Simple CRUD project      | 2 soat        |
+| **10-kun** | API bilan ishlash (axios, fetch, auth)                  | API project (CRUD)       | 2 soat        |
+| **11-kun** | Git (branch, merge, conflict)                           | GitHub project yaratish  | 1.5 soat      |
+| **12-kun** | Deployment: Vercel, Netlify, Railway                    | GitHub’dan deploy qilish | 1.5 soat      |
+| **13-kun** | LeetCode Easy: Two Sum, Valid Parentheses               | 3 ta problem yechish     | 2 soat        |
+| **14-kun** | Review + 1 Mock Interview (React + API + LeetCode Easy) | Mock Interview           | 2 soat        |
+| ---------- | ----------------------------------------------------- | ---------------------------- | ------------- |
+| **15-kun** | React Advanced: Custom Hook, Performance optimization | Custom Hook yozish           | 2 soat        |
+| **16-kun** | Form validation (Formik, Yup, Custom)                 | Form validation project      | 2 soat        |
+| **17-kun** | System Design: Folder structure, Lazy Loading         | Frontend arxitektura chizish | 1.5 soat      |
+| **18-kun** | Responsive design, Accessibility                      | Portfolio sayt boshlash      | 2 soat        |
+| **19-kun** | LeetCode Medium: Sliding Window, Group Anagrams       | 3 ta problem yechish         | 2 soat        |
+| **20-kun** | GitHub Action, Continuous Deployment                  | Simple CI/CD setup           | 1.5 soat      |
+| **21-kun** | Review + Mock Interview (React + API + DSA Medium)    | Mock Interview               | 2 soat        |
+| ---------- | ------------------------------------------------------ | -------------------------------- | ------------- |
+| **22-kun** | Behavioral Interview: Communication, Team fit          | Real project misollar tayyorlash | 1.5 soat      |
+| **23-kun** | SEO, SSR va CSR farqlari                               | Portfolio loyihasida SEO qilish  | 2 soat        |
+| **24-kun** | Error handling, try-catch, auth xatolarni boshqarish   | Error handling project           | 2 soat        |
+| **25-kun** | Real intervyulardagi savollar (Google)                 | Google interview savollari       | 2 soat        |
+| **26-kun** | LeetCode Medium: Sliding Window, Product of Array Self | 3 ta problem yechish             | 2 soat        |
+| **27-kun** | Mock Interview: Full-stack React + API + LeetCode      | Full Mock                        | 2.5 soat      |
+| **28-kun** | Review + Portfolio yakunlash                           | Portfolio tayyor ko‘rinishda     | 2 soat        |
+
+
+🔥 Yakuniy tayyorgarlik:
+✅ 3-4 ta real loyiha GitHub’da.
+✅ Portfolio tayyor, deployed.
+✅ Mock intervyulardan o‘tgan.
+✅ LeetCode Easy va Medium darajali savollar yechilgan.
+✅ API bilan real project tayyor.
+✅ Communication va Teamwork savollariga tayyor javoblar bor.

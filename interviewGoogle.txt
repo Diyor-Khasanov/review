@@ -1,0 +1,131 @@
+Savollar:
+let, const, var farqini tushuntiring. Misollar keltiring.
+
+Closure nima? Misol yozing.
+
+Hoisting nima? Misol yozing.
+
+this konteksti qanday ishlaydi? Arrow function va oddiy functiondagi farqi.
+
+Debounce va Throttle nima? Real hayotdan misol keltiring.
+
+Event Loop qanday ishlaydi? Render, microtask, macrotask tushunchasi.
+
+Memory leak qanday holatlarda yuz beradi? Qanday oldini olasiz?
+
+Promise, async/await, try-catch qanday ishlaydi?
+
+Destructuring, Spread, Rest operatorlarini misollar bilan tushuntiring.
+
+LocalStorage va SessionStorage farqlari.
+
+✅ Bu bosqichda:
+
+  Tez va tushunarli javob bera olishingiz kerak.
+
+  Misollar orqali tushuntirishingiz kerak.
+
+-------------------------------------------------------------------------------------------------------------------------
+
+Savollar:
+React’da state va props farqini tushuntiring.
+
+React component lifecycle qanday ishlaydi? (useEffect bilan tushuntiring.)
+
+React’da controlled va uncontrolled component farqi.
+
+useMemo va useCallback qachon ishlatiladi? Misol yozing.
+
+Redux qanday ishlaydi? action, reducer, store tushuntiring.
+
+Server Component va Client Component farqi.
+
+React Performance optimization qachon va qanday amalga oshiriladi?
+
+Form validation qanday qilasiz? Custom yoki library orqali.
+
+React’da list rendering va key prop nima uchun kerak?
+
+Siz qaysi state management texnologiyalar bilan ishlagansiz? (Redux, Context API, Zustand va h.k.)
+
+✅ Bu bosqichda:
+
+  Live coding yoki qog‘ozda kod yozish so‘ralishi mumkin.
+
+  React hooks’larni to‘liq tushunish so‘raladi.
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Savollar:
+Two Sum (Easy)
+
+Valid Parentheses (Easy)
+
+Best Time to Buy and Sell Stock (Easy)
+
+Group Anagrams (Medium)
+
+Longest Substring Without Repeating Characters (Medium)
+
+Merge Two Sorted Arrays (Easy)
+
+Product of Array Except Self (Medium)
+
+Binary Search yozish (Recursive va Iterative)
+
+Sliding Window — eng katta subarray yig‘indisini topish.
+
+O(n) va O(log n) algoritmlar farqi.
+
+✅ Bu bosqichda:
+
+  Asosiy e’tibor: algorithm, time complexity, array manipulation.
+
+  LeetCode Easy va Medium darajali savollar.
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Savollar:
+Katta Frontend application qanday tuziladi? Folder structure misollar bilan.
+
+Lazy loading nima? Qanday ishlaydi?
+
+Code splitting nima? Nega kerak?
+
+Performance optimization: Renderingni tezlashtirish uchun nima qilasiz?
+
+Deployment pipeline qanday ko‘rinishda bo‘ladi?
+
+SSR va CSR farqi.
+
+GitHub Action yordamida Continuous Deployment qanday qilasiz?
+
+Responsive Design strategiyalaringiz qanday?
+
+SEO uchun nimalarga e’tibor qilasiz?
+
+Siz ishlagan real jamoa loyihasini tushuntirib bering.
+
+✅ Bu bosqichda:
+
+   Google intervyularida yuqori tajriba talab qilinadi.
+
+   Siz o‘zingiz ishlagan real project’larni batafsil tushuntirishingiz kerak.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+Siz jamoada qanday ishlaysiz? Mojaro bo‘lsa qanday yechasiz?
+
+Deadline yaqin bo‘lsa, qanday ish strategiyasini tanlaysiz?
+
+Qanday qilib yangi texnologiyalarni tez o‘rganasiz?
+
+Siz o‘zingizni qanday baholaysiz: Junior, Middle, Senior?
+
+Siz ishlagan eng qiyin loyiha va uni qanday yechdingiz?
+
+✅ Bu bosqichda:
+
+Sizning shaxsiy yondashuvingiz, muloqot qobiliyatingiz baholanadi.
+
+
